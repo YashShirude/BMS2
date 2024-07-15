@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bank management system:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bank_management_system_jar</output-path>
+    <root id="archive" name="bank management system.jar">
+      <element id="module-output" name="bank management system" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../junit-4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jgoodies-common-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mysql-connector-java-8.0.28.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jgoodies-looks-2.4.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
